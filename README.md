@@ -2,9 +2,9 @@
 
 I am Embedded Software Developer. 
 
-Languages
+- Languages
 C C++ Python
-Infrastructure and DevOps
+- Infrastructure and DevOps
 github raspberrypi docker 
 Environment, IDEs, and Tools
 vs-code bash studio visual studio terminal ubuntu windows
