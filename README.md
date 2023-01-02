@@ -1,9 +1,13 @@
-### Hi there 👋
+### Chirag Parmar 👋
 
-<!--
-**Chiragparmar09/Chiragparmar09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Embedded Software Developer. 
 
-Here are some ideas to get you started:
+Languages
+C C++ Python
+Infrastructure and DevOps
+github raspberrypi docker 
+Environment, IDEs, and Tools
+vs-code bash studio visual studio terminal ubuntu windows
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
